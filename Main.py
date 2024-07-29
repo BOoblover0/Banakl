@@ -12,9 +12,9 @@ logging.basicConfig(
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
 # Edit It From Line 18 to 20
-API_ID = int(os.getenv("27099489"))
-API_HASH = os.getenv("563aa5d8b46526c5ec0252de8f659904")
-BOT_TOKEN = os.getenv("7494130118:AAFszfmsIYgNP6VuQX6OWHbsyuf-8cC9fu8")
+API_ID = int(os.getenv("016675873641"))
+API_HASH = os.getenv("3fc2b371f4fbb0166758736414d8be92")
+BOT_TOKEN = os.getenv("6882588183:AAGjJpJz_nOxYwu-uoEgOux7R8dt9zThSUM")
 #Dont Edit From Line 21. otherwise you will get error 
 OWNER = os.getenv("@UnknownX_911")
 
